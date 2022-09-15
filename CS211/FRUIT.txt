@@ -1,0 +1,11 @@
+BANANA One serving of banana contains 110 calories, 30 grams of carbohydrate and 1 gram of protein.
+APPLE Apples are free of fat, sodium and cholesterol.
+ORANGE Oranges are an excellent source of Vitamin C.
+GRAPE Grapes are a good source of vitamin K.
+APRICOT Apricots are an excellent source of vitamin A.
+HONEYBERRY HONEYBERRYs are good for your honey. 
+PAPAYA One medium papaya has approximately: 120 calories. 30 grams of carbohydrate
+BLUEBERRY One cup of blueberries (148 grams) contains 84 calories.
+CHERRY Cherries are a good source of vitamin C, with 16% of the daily recommended value in onecup.
+RASPBERRY Eating one cup of raw raspberries will provide 54 percent of your vitamin C needs.
+GRAPEFRUIT Grapefruit is an excellent source of vitamin A (in the form of carotenoids) and vitamin C.
